@@ -47,4 +47,30 @@ The dashboard enables multi-dimensional exploration of transaction trends across
 ---
 
 ## 📂 Repository Structure
+---
+
+## 📷 Dashboard Preview
+<img width="1661" height="682" alt="image" src="https://github.com/user-attachments/assets/433ee34b-563b-4816-bf94-987fb1f29fd6" />
+<img width="1210" height="663" alt="image" src="https://github.com/user-attachments/assets/d702344d-ead1-4ec4-9ff3-25e277dfe0af" />
+
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from this repository  
+2. Open it using **Power BI Desktop**
+3. Use slicers and bookmarks to explore insights interactively
+
+---
+
+## 📌 Notes
+- This project is intended for **data analysis and visualization practice**
+- All insights are derived from the provided dataset
+
+---
+
+## 👤 Author
+**Sanya Gupta**  
+ Business Analyst
+
 
