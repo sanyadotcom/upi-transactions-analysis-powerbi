@@ -46,9 +46,6 @@ The dashboard enables multi-dimensional exploration of transaction trends across
 
 ---
 
-## 📂 Repository Structure
----
-
 ## 📷 Dashboard Preview
 <img width="1661" height="682" alt="image" src="https://github.com/user-attachments/assets/433ee34b-563b-4816-bf94-987fb1f29fd6" />
 <img width="1210" height="663" alt="image" src="https://github.com/user-attachments/assets/d702344d-ead1-4ec4-9ff3-25e277dfe0af" />
